@@ -1,9 +1,11 @@
 # olives-finance-data-analysis
 
-### This is a Finance Company that helps Investors choose the right investment plan, through the different investment avenues ranging from mutual funds, equity, public provident funds, and fixed deposit.
-### The Finance and investment industry is a  highly competitive one and as part of my project with the Root Hub Trip internship, i was  asked to carry out an in-depth analysis using SQL to determine the following;
 
- - Are more young people into investments? 
+
+ This is a Finance Company that helps Investors choose the right investment plan, through the different investment avenues ranging from mutual funds, equity, public provident funds, and fixed deposit.
+  
+The Finance and investment industry is a  highly competitive one and  as part of my project with the Root hub Trip internship, i was  asked to carry out an indepth analysis using SQL to determine the following;
+- Are more young people into investments? 
  - How many have investments in the stock market? 
  - How many do not have investments in the stock market?
  - What investment objective attracts more people and why?
