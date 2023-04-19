@@ -17,4 +17,5 @@ How often do people monitor their investments
 How much return do people expect from any investment instrument?
 Which investment avenue do people mostly invest in?
 Reasons people invest in equity, mutual funds,  Government bonds, and fixed market
+[(https://www.figma.com/file/TCM9sObNoJrVVH7qr9fHq8/Finance-Dashboard-design-Practice-(Community)?node-id=0%3A1&t=4WcIpUMToJd3MWEd-1)]
 
