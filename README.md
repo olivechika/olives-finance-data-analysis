@@ -27,7 +27,7 @@
 ## This is the [Link](https://www.figma.com/file/TCM9sObNoJrVVH7qr9fHq8/Finance-Dashboard-design-Practice-(Community)?node-id=0%3A1&t=4WcIpUMToJd3MWEd-1)
 
 
-## Analytical Tools
+## Analyized with:
 - Microsoft Excel
 - SQL
 - Tableu
@@ -39,7 +39,17 @@
 👤 **Nwaigbo Olive**
 - Github:  [@olivenwaigbo](https://github.com/Olivenwaigbo?tab=following)    
 
+- LinkedIn:  [olive nwaigbo](https://www.linkedin.com/in/olive-nwaigbo-95707a151)
 
+
+# 🤝**Contributing**
+Contributions, Issues and feature requests are welcome!
+
+# **Show your support**
+Give a ⭐️ if you like this project
+
+# **Acknowledgements**
+- Thank you Aniekan Udo for guiding me through this project.
 ## 📝 License 
  
 This project is [MIT](./MIT.md) licensed.`
