@@ -29,7 +29,7 @@ The Finance and investment industry is a  highly competitive one and  as part of
 ## This is the [Link](https://www.figma.com/file/TCM9sObNoJrVVH7qr9fHq8/Finance-Dashboard-design-Practice-(Community)?node-id=0%3A1&t=4WcIpUMToJd3MWEd-1)
 
 
-## **Data Analyzed with**~:
+## **Data Analyzed with**:
 - Microsoft Excel
 - SQL
 - Tableu
